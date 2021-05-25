@@ -1,0 +1,17 @@
+.custom-button {
+    -fx-background-color: radial-gradient(focus-distance 0% , center 50% 50% , radius 55% , #3a4466, #181425);
+    -fx-background-repeat: stretch;
+    -fx-border-color: #181425;
+    -fx-text-fill: white;
+    -fx-font-family: monospace;
+    -fx-font-size: 14;
+    -fx-focus-color: transparent;
+}
+
+.custom-background {
+    -fx-background-color: linear-gradient(#3a4466 20%, #5e6483 80%, #3a4466 100%);
+}
+
+.custom-button:hover {
+    -fx-effect: dropshadow(gaussian, #353b5a, 25, 0, 0, 0);
+}
