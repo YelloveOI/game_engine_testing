@@ -35,7 +35,6 @@ class CharacterControllerTest {
     @Test
     public void move_directionVectorUP_movesUp() {
         // Arrange
-        characterController.keyPress(KeyCode.UP);
         characterController.directionVector = mock(Position.class);
 
         when(characterController.directionVector.copy()).thenReturn(new Position(0, -1));
