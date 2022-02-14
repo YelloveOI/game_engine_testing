@@ -3,6 +3,7 @@
 ## Návrh testovací strategie
 ### Popis projektu pro testování
 Projektem je jednoduchý herní engine, který jsem vytvořil v rámcích semestrální práce z předmětu PJV. Ze specifikací požadavku semestralky z PJV můžeme vyjádřit systémové požadavky projektu rozdělením původních požadavků na dílčí části.
+
 ![image](https://user-images.githubusercontent.com/68948498/153920723-246dfbce-0120-452d-966e-3be34eb5a109.png)
 ![image](https://user-images.githubusercontent.com/68948498/153920741-3e3323d8-52c7-4b00-ab95-74add869870c.png)
 
