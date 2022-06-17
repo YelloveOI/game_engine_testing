@@ -1,4 +1,5 @@
 # TS1 Semester work
+## Zdroj: main/TS-1 Presentation
 
 ## Návrh testovací strategie
 ### Popis projektu pro testování
